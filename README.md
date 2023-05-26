@@ -23,7 +23,7 @@ O programa realiza as seguintes etapas:
 ## Pré-requisitos
 
 - Python 3.x
-- Biblioteca OpenCV (opencv-python)
+- Biblioteca OpenCV (opencv-python) -> pip install opencv-python
 
 ## Como executar o programa
 
